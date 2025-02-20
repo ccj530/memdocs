@@ -51,7 +51,7 @@ It isn't necessary to add corporate identifiers for all deployments. During enro
 Microsoft Intune marks devices that register with Microsoft Entra as personal.
 
 ## Role-based access control  
-
+TEST TEST TES GILLES
 To add corporate identifiers in Microsoft Intune, you must be assigned one of these roles:  
 
 - Policy and Profile Manager, a Microsoft Intune built-in role  
